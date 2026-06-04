@@ -1,0 +1,58 @@
+[
+    {
+        "cpf": "09876543201",
+        "nome": "Gabriel Pontes Rodrigues",
+        "sexo": "masculino",
+        "email": "gabriel@gmail.com",
+        "idade": 17,
+        "titular": "casado",
+        "telefone": "81987653456",
+        "dependentes": [],
+        "plano": "Prata",
+        "valor_plano": 200,
+        "vencimento": "13/10/2029"
+    },
+    {
+        "cpf": "38590835682",
+        "nome": "Mateus de Lima",
+        "sexo": "masculino",
+        "email": "mateusgameplays@gmail.com",
+        "idade": 21,
+        "titular": "casado",
+        "telefone": "81985760395",
+        "dependentes": [
+            {
+                "cpf": "47582948601",
+                "nome": "Gabriel Mathias",
+                "idade": 46
+            }
+        ],
+        "plano": "Diamante",
+        "valor_plano": 400,
+        "vencimento": "28/07/2026"
+    },
+    {
+        "cpf": "09846589012",
+        "nome": "Beatriz da silva",
+        "sexo": "feminino",
+        "email": "beatrizsilva@hotmail.com",
+        "idade": 59,
+        "titular": "casada",
+        "telefone": "89946573884",
+        "dependentes": [
+            {
+                "cpf": "67845612309",
+                "nome": "Julia Marques",
+                "idade": 17
+            },
+            {
+                "cpf": "1230984756980",
+                "nome": "Brenda Maria",
+                "idade": 87
+            }
+        ],
+        "plano": "Ouro",
+        "valor_plano": 240.0,
+        "vencimento": "05/12/2027"
+    }
+]
