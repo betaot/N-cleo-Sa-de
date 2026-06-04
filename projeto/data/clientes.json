@@ -1,0 +1,15 @@
+[
+    {
+        "cpf": "09876543201",
+        "nome": "Gabriel Pontes Rodrigues",
+        "sexo": "masculino",
+        "email": "gabriel@gmail.com",
+        "idade": 17,
+        "titular": "solteiro",
+        "telefone": "81987653456",
+        "dependentes": [],
+        "plano": "Prata",
+        "valor_plano": 200,
+        "vencimento": "13/10/2029"
+    }
+]
