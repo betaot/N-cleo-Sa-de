@@ -1,0 +1,60 @@
+[
+    {
+        "cpf": "09876543201",
+        "nome": "Ian Cassundé dos Santos",
+        "sexo": "masculino",
+        "email": "cassundeian@gmail.com",
+        "idade": "18",
+        "titular": "solteiro",
+        "telefone": "81985059603",
+        "dependentes": [],
+        "plano": "Diamante",
+        "valor_plano": 400,
+        "vencimento": "09122026"
+    },
+    {
+        "cpf": "12345678901",
+        "nome": "Mariana Silva Albuquerque",
+        "sexo": "feminino",
+        "email": "mari.albuquerque@gmail.com",
+        "idade": "27",
+        "titular": "solteiro",
+        "telefone": "81997654321",
+        "dependentes": [],
+        "plano": "Diamante",
+        "valor_plano": 520.0,
+        "vencimento": "15122026"
+    },
+    {
+        "cpf": "98765432100",
+        "nome": "Rodrigo Souza Cavalcanti",
+        "sexo": "masculino",
+        "email": "rodrigo.cavalcanti@hotmail.com",
+        "idade": "42",
+        "titular": "casado",
+        "telefone": "81988776655",
+        "dependentes": [
+            {
+                "cpf": "84784759012",
+                "nome": "Lucas Souza Cavalcanti",
+                "nascimento": "87"
+            }
+        ],
+        "plano": "Ouro",
+        "valor_plano": 300,
+        "vencimento": "10122026"
+    },
+    {
+        "cpf": "45678912304",
+        "nome": "Beatriz Costa Mendonça",
+        "sexo": "feminino",
+        "email": "beatriz.mendonca@gmail.com",
+        "idade": "98",
+        "titular": "solteiro",
+        "telefone": "81991223344",
+        "dependentes": [],
+        "plano": "Prata",
+        "valor_plano": 280.0,
+        "vencimento": "05012027"
+    }
+]
